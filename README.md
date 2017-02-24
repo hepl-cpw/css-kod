@@ -25,7 +25,7 @@ Ensuite, vous allez créer quatre feuilles de style pour permettre d’afficher 
 
 Les différents styles devront être accessibles depuis le menu *Affichage* du navigateur pour que l’utilisateur puisse choisir son thème préféré&nbsp;:
 
-![Rendu de la page avec CSS](rendu1_Light.PNG "rendu avec CSS (light) de la solution")
+![Rendu de la page avec CSS](rendu1_Light.png "rendu avec CSS (light) de la solution")
 
 ### Consignes
 
@@ -78,7 +78,7 @@ N.B. L’extrait de code doit&nbsp;:
 
 ##### Thème clair (*Light*, affiché par défaut) 
 
-![Rendu de la page avec CSS](rendu1_Light.PNG "rendu avec CSS (light) de la solution")
+![Rendu de la page avec CSS](rendu1_Light.png "rendu avec CSS (light) de la solution")
 
 Couleurs&nbsp;:
 
@@ -92,7 +92,7 @@ Couleurs&nbsp;:
 
 ##### Thème clair solarisé (*Solarized Light*)
 
-![Rendu de la page avec CSS](rendu2_Solarized_Light.PNG "rendu alterné avec CSS (solarized light) de la solution")
+![Rendu de la page avec CSS](rendu2_Solarized_Light.png "rendu alterné avec CSS (solarized light) de la solution")
 
 Couleurs&nbsp;:
 
@@ -106,7 +106,7 @@ Couleurs&nbsp;:
 
 ##### Thème foncé (*Dark*)
 
-![Rendu de la page avec CSS](rendu3_dark.PNG "rendu alterné avec CSS (dark) de la solution")
+![Rendu de la page avec CSS](rendu3_dark.png "rendu alterné avec CSS (dark) de la solution")
 
 Couleurs&nbsp;:
 
@@ -119,7 +119,7 @@ Couleurs&nbsp;:
 
 ##### Thème foncé solarisé (*Solariezd Dark*)
 
-![Rendu de la page avec CSS](rendu4_dark_solarized.PNG "rendu alterné avec CSS (solarized dark) de la solution")
+![Rendu de la page avec CSS](rendu4_dark_solarized.png "rendu alterné avec CSS (solarized dark) de la solution")
 
 Couleurs&nbsp;:
 
